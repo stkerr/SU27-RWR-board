@@ -1,0 +1,88 @@
+Partlist
+
+Exported from rwr_schematic.brd at 10/16/2015 5:33 PM
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part                     Value          Package             Library          Position (mil)        Orientation
+
+ABOVE_LED1               AMBER          LED3MM              led              (2219.42717 1855.55586) R0
+BELOW_LED1               AMBER          LED3MM              led              (2219.42717 1630.55696) R0
+BOOT1                    EVQQ2          EVQ-Q2              adaprog          (1019.44131 813.88091) MR0
+C1                       18pF           C0805K              adafruit         (1319.42655 288.91646) R180
+C2                       18pF           C0805K              adafruit         (824.97736 427.80635) R180
+C3                       1uF            C0805K              adafruit         (1025.0331 294.42212) R0
+CLK                      16MHz          NX5032              adaprog          (800.02817 241.66117) R180
+CN1                      MiniB USB      USB-MINIB           adafruit         (211.11614 297.20509) R270
+D+                       22             R0805               adafruit         (522.23991 288.8659)  R0
+D-                       22             R0805               adafruit         (527.79355 386.0892)  R0
+DECOUPLING_CAP           0.33uF         C0805K              adafruit         (336.0892 2200.04417) MR90
+HWB                      10K            R0805               adafruit         (1419.43898 1030.5892) R180
+IC1                      ATMEGA32U4-AU  TQFP44              adaprog          (1027.80413 783.32616) R0
+ISP                      PINHD-2X3THM   ISP6                adaprog          (197.2372 897.23462)  MR270
+J2                       jack           SPC4077             con-jack         (336.10913 1722.24988) MR180
+LOCK_LED_1               RED            LED3MM              led              (1916.6501 1930.55487) R0
+LOCK_LED_2               RED            LED3MM              led              (1863.87315 1730.55487) R0
+LOCK_LED_3               RED            LED3MM              led              (1862.76218 1499.99988) R0
+LOCK_LED_4               RED            LED3MM              led              (1972.20608 1327.77793) R0
+LOCK_LED_5               RED            LED3MM              led              (2497.12438 1327.77781) R0
+LOCK_LED_6               RED            LED3MM              led              (2602.7591 1499.99988) R0
+LOCK_LED_7               RED            LED3MM              led              (2602.7591 1730.55487) R0
+LOCK_LED_8               RED            LED3MM              led              (2555.53716 1930.55487) R0
+LOCK_TRANSISTOR          BD437          TO126AV             transistor-power (722.20792 2200.02768) MR0
+MAIN_DIRECTION_0         AMBER          LED3MM              led              (3402.81914 1936.09289) R0
+MAIN_DIRECTION_1         AMBER          LED3MM              led              (3244.48807 2291.65281) R0
+MAIN_DIRECTION_2         AMBER          LED3MM              led              (2930.59301 2624.98893) R0
+MAIN_DIRECTION_3         AMBER          LED3MM              led              (2561.1421 2805.54577) R0
+MAIN_DIRECTION_4         AMBER          LED3MM              led              (1886.13312 2805.54589) R0
+MAIN_DIRECTION_5         AMBER          LED3MM              led              (1494.49016 2619.43504) R0
+MAIN_DIRECTION_6         AMBER          LED3MM              led              (1180.59523 2299.98782) R0
+MAIN_DIRECTION_7         AMBER          LED3MM              led              (1008.35913 1936.09289) R0
+MAIN_DIRECTION_DRIVE     TPIC2810DG4    SOIC127P600X175-16N ti_led_driver    (822.25591 1580.56508) R0
+MISC_LED_DRIVE           TPIC2810DG4    SOIC127P600X175-16N ti_led_driver    (1244.43996 1330.56287) MR0
+OTHER_DIRECTION_0        GREEN          LED3MM              led              (3183.86897 1836.10888) R0
+OTHER_DIRECTION_1        GREEN          LED3MM              led              (3063.86897 2169.44291) R0
+OTHER_DIRECTION_2        GREEN          LED3MM              led              (2792.75714 2387.77584) R0
+OTHER_DIRECTION_3        GREEN          LED3MM              led              (2467.20312 2554.99692) R0
+OTHER_DIRECTION_4        GREEN          LED3MM              led              (1993.31804 2541.1079) R0
+OTHER_DIRECTION_5        GREEN          LED3MM              led              (1652.20817 2387.77596) R0
+OTHER_DIRECTION_6        GREEN          LED3MM              led              (1396.65219 2183.33182) R0
+OTHER_DIRECTION_7        GREEN          LED3MM              led              (1998.88029 2211.11171) R0
+OTHER_DIRECTION_DRIVE    TPIC2810DG4    SOIC127P600X175-16N ti_led_driver    (1963.93123 477.76636) R90
+PWR                      GREEN          CHIPLED_0805        adafruit         (133.3419 1372.25812) MR180
+REAR_MAIN_LEFT1          AMBER          LED3MM              led              (1463.89715 588.86786) R0
+REAR_MAIN_RIGHT1         AMBER          LED3MM              led              (2988.93812 594.42188) R0
+REAR_OTHER_LEFT1         GREEN          LED3MM              led              (1674.98511 827.7799) R0
+REAR_OTHER_RIGHT1        GREEN          LED3MM              led              (2783.3141 827.7799)  R0
+RIPPLE_CAP               .01uF          C0805K              adafruit         (266.64419 1358.31299) R270
+SCL_PL                   10K            R0805               adafruit         (725.031 1172.24975)  R90
+SDA_PL                   10K            R0805               adafruit         (850.03223 1169.46838) R90
+SERVICABILITY_LED1       AMBER          LED3MM              led              (2222.258 2802.77301) R0
+SIGNAL_STRENGTH_0        AMBER          LED3MM              led              (2499.98007 988.88989) R0
+SIGNAL_STRENGTH_1        AMBER          LED3MM              led              (2805.53617 1252.77891) R0
+SIGNAL_STRENGTH_2        AMBER          LED3MM              led              (2891.64702 1497.22281) R0
+SIGNAL_STRENGTH_3        AMBER          LED3MM              led              (2886.09104 1702.77694) R0
+SIGNAL_STRENGTH_4        AMBER          LED3MM              led              (2836.09104 1883.33182) R0
+SIGNAL_STRENGTH_5        AMBER          LED3MM              led              (2700.21407 2056.43086) R0
+SIGNAL_STRENGTH_6        AMBER          LED3MM              led              (2513.87106 2197.21887) R0
+SIGNAL_STRENGTH_7        AMBER          LED3MM              led              (2219.42717 2261.1079) R0
+SIGNAL_STRENGTH_8        AMBER          LED3MM              led              (1827.76021 2127.77399) R0
+SIGNAL_STRENGTH_9        AMBER          LED3MM              led              (1695.28408 1989.48585) R0
+SIGNAL_STRENGTH_10       AMBER          LED3MM              led              (1605.54011 1838.88583) R0
+SIGNAL_STRENGTH_11       AMBER          LED3MM              led              (1574.98511 1449.99594) R0
+SIGNAL_STRENGTH_12       AMBER          LED3MM              led              (1566.65219 1650)     R0
+SIGNAL_STRENGTH_13       AMBER          LED3MM              led              (1644.43012 1252.77682) R0
+SIGNAL_STRENGTH_14       AMBER          LED3MM              led              (1772.20817 1099.99988) R0
+SIGNAL_STRENGTH_TRIANGLE AMBER          LED3MM              led              (1952.76316 988.88989) R0
+STRENGTH_SIGNAL_DRIVE_1  TPIC2810DG4    SOIC127P600X175-16N ti_led_driver    (3238.92409 1216.68627) MR180
+STRENGTH_SIGNAL_DRIVE_2  TPIC2810DG4    SOIC127P600X175-16N ti_led_driver    (2480.58526 480.57505) R90
+TYPE1                    AMBER          LED3MM              led              (3394.48216 108.29884) R0
+TYPE2                    AMBER          LED3MM              led              (2819.48105 108.29884) R0
+TYPE3                    AMBER          LED3MM              led              (2425.03703 108.29884) R0
+TYPE4                    AMBER          LED3MM              led              (2030.59326 108.29897) R0
+TYPE5                    AMBER          LED3MM              led              (1552.81496 108.29897) R0
+TYPE6                    AMBER          LED3MM              led              (1005.59203 108.29897) R0
+USB_FUSE                 500mA          R1206               adafruit         (527.79245 497.20103) R0
+VOLT_REG                 7805TV         TO220V              linear           (97.22306 2233.38398) R90
